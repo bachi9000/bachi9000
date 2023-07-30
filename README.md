@@ -8,8 +8,6 @@ What truly sets me apart is my unwavering commitment to continuous learning and 
 
 I had the privilege of contributing to the development of <Aprende Conmigo>, where I played a vital role as a developer and team leader.  we efficiently achieved our objectives, creating an innovative product that addresses an educational market need.
 
-I invite you to explore my portfolio and discover how my passion for learning and dedication to creating impactful web experiences can add value to your projects. Let's connect and discuss how I can contribute to the success of your project!
-
 Don't hesitate to contact me, so we can create something amazing together!
 📱+584244563800
 📧 bachirnssr@gmail.com</h4>
