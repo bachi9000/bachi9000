@@ -21,7 +21,7 @@ Don't hesitate to contact me, so we can create something amazing together!
 
 - 🔭 I’m currently working on **Proyect Final Henry**, It is oriented to the management of OnLine teachers in different specializations (Finished).
 
-- 🌱 I know **JavaScript, Vite, Postgres SQL, CSS**
+- 🌱 I know **JavaScript, Vite, Postgres SQL, CSS, C++**
 
 - 📫 How to reach me **bachirnssr@gmail.com**
 
