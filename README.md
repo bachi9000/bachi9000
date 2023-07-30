@@ -1,6 +1,3 @@
-# bachir9000
-my personal repository
-
 <h1 align="center">Hi 👋, I'm Bachir Nasser</h1>
 <h3 align="center">A full stack developer</h3>
 <h4 align="center">I am a passionate full-stack developer and engineer, dedicated to creating web applications that deliver exceptional experiences to users. My strong foundation in the backend is built on the use of technologies like Node.js and Express, enabling me to efficiently manage data through PostgresSQL. Additionally, I implement clear code modularization, facilitating teamwork and i am a good leader.
