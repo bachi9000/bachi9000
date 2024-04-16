@@ -14,7 +14,7 @@ Don't hesitate to contact me, so we can create something amazing together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgealfredolozano&label=Profile%20views&color=0e75b6&style=flat" alt="jorgealfredolozano" /> </p>
 
-- 🔭 I’m currently working on **Proyect Final Henry**, It is oriented to the management of OnLine teachers in different specializations (Finished).
+- 🔭 **Proyect Final Henry**, It is oriented to the management of OnLine teachers in different specializations (Finished) ---> link: https://aprende-one.vercel.app/.
 
 - 🌱 I know **JavaScript, Vite, Postgres SQL, CSS, C++**
 
